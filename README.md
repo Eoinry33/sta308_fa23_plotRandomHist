@@ -1,1 +1,4 @@
-# sta308_fa23_plotRandomHist
+# Plot Random Histogram
+
+An R function that generate a random sample of "Normal"
+observations and plots a histogram.
